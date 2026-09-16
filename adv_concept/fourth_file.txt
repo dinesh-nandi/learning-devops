@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is fourth file
 
 this is my gadbad file.
 
 this is another gadbad.
+=======
+This is fourth file.
+>>>>>>> 1f27bda (added fourth file)
