@@ -3,3 +3,6 @@ this is the file of error
 modifying to check how git diff happens
 
 i amgoing to revert this file
+
+
+this is to create conflict and resolve
